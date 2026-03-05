@@ -3,7 +3,17 @@
 Zou, Zhi Kai
 Independent Researcher; Shenzhen; China; zhiyan.zou@foxmail.com
 
-Abstract: Multiplicative entropy is a non-statistical, computable, high-resolution, algebraic form of entropy developed by the author since February 2025[1] in related thermodynamics time theory. By multiplying the values of each unit in a system, multiplicative entropy provides a simple, real-time computable, path-recordable evolution indicator for complex system simulation, allowing researchers to intuitively track the entire process from initial state to distribution homogenization of system value. This brief report primarily adapts and supplements the applicable conditions for complex system applications, while introducing the potential of multiplicative entropy in this field.
+Abstract: Multiplicative entropy is a non-statistical, computable, high-resolution, algebraic form of entropy developed by the author since February 2025[1] in related thermodynamics time theory. By multiplying the values of each unit in a system, multiplicative entropy provides a simple, real-time computable, path-recordable evolution indicator for complex system simulation, allowing researchers to intuitively track the entire process from initial state to distribution homogenization of system value. This brief report primarily adapts and supplements the applicable conditions for complex system applications, while introducing the potential of multiplicative entropy in this field. 
+
+A system can adopt a multiplicative entropy description if it satisfies the following conditions:
+
+### 1.The number of units carrying numerical values remains constant.
+
+### 2.Each unit is associated with a quantifiable scalar metric (e.g., energy, resource amount, or population size).
+
+### 3.The total sum of all unit values is conserved.
+
+### 4.The dynamical evolution follows a flow or exchange rule wherein quantities transfer from units with higher values to those with lower values.
 
 Keywords: multiplicative entropy; complex system entropy coordinate; complex system evolution path analysis; computable entropy; non-statistical entropy; high-resolution entropy; algebraic entropy; analytic entropy; 
 
