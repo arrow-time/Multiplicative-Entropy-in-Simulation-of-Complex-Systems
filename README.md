@@ -7,13 +7,15 @@ Abstract: Multiplicative entropy is a non-statistical, computable, high-resoluti
 
 A system can adopt a multiplicative entropy description if it satisfies the following conditions:
 
-### 1.The number of units carrying numerical values remains constant.
+##### 1.The number of units carrying numerical values remains constant.
 
-### 2.Each unit is associated with a quantifiable value (e.g., energy, resource amount, or population size).
+##### 2.Each unit is associated with a quantifiable value (e.g., energy, resource amount, or population size).
 
-### 3.The total sum of all unit values is conserved.
+##### 3.The total sum of all unit values is conserved.
 
-### 4.The dynamical evolution follows a flow or exchange rule wherein quantities transfer from units with higher values to those with lower values.
+##### 4.The dynamical evolution follows a flow or exchange rule wherein quantities transfer from units with higher values to those with lower values.
+
+##### 5. The numerical value carried by each unit must be unitized, i.e., expressed as an integer multiple greater than 1 of the basic unit.
 
 Keywords: multiplicative entropy; complex system entropy coordinate; complex system evolution path analysis; computable entropy; non-statistical entropy; high-resolution entropy; algebraic entropy; analytic entropy; 
 
@@ -64,6 +66,7 @@ Multiplicative entropy is not a one-size-fits-all solution. It is suitable for s
 Each unit has a quantifiable numerical value (such as energy, resource quantity, population size, etc.).
 The total sum of numerical values in the system is conserved (the sum of all unit values is fixed).
 Evolution rule: Flow or exchange exists between units, and the direction of flow is from high-value units to low-value units.
+The numerical value carried by each unit must be unitized, i.e., expressed as an integer multiple greater than 1 of the basic unit.
 
 Under these conditions, multiplicative entropy increases monotonically as the system's numerical values evolve toward a uniform distribution. This monotonicity is not assumed but is a mathematical necessity: as long as values flow from high places to low places, the product increases.
 
