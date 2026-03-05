@@ -75,5 +75,6 @@ Multiplicative entropy offers a way to address this question using simple arithm
 This provides only a brief introduction to multiplicative entropy for researchers in complex systems; specific applications can be developed by professional complex systems experts.
 We welcome guidance and collaboration.
 
-[1 ]original manuscript:https://doi.org/10.5281/zenodo.14788393
+[1 ]original manuscript since February 2025 :https://doi.org/10.5281/zenodo.14788393
+
 [2] Zou, Z. K. (2025). Time-Entropy Mirroring via Space Transformation and Mass-Gravity Duality via QCD-Higgs Synergy. Preprints. https://doi.org/10.20944/preprints202505.0270.v1
