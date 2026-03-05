@@ -9,7 +9,7 @@ A system can adopt a multiplicative entropy description if it satisfies the foll
 
 ### 1.The number of units carrying numerical values remains constant.
 
-### 2.Each unit is associated with a quantifiable scalar metric (e.g., energy, resource amount, or population size).
+### 2.Each unit is associated with a quantifiable value (e.g., energy, resource amount, or population size).
 
 ### 3.The total sum of all unit values is conserved.
 
